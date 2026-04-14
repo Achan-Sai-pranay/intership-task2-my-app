@@ -1,11 +1,11 @@
 # CI-CD-PIPELINE-PROJECT
 
 **COMPANY:** CODTECH IT SOLUTIONS
-**NAME:** *Your Name*
-**INTERN ID:** *Your ID*
-**DOMAIN:** DevOps / Web Development
+**NAME:** *Achan Sai Pranay*
+**INTERN ID:** *CTIS6878*
+**DOMAIN:** DevOps
 **DURATION:** 4 WEEKS
-**MENTOR:** *Mentor Name*
+**MENTOR:** *NEELA SANTOSH*
 
 ---
 
