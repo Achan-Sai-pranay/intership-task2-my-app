@@ -57,3 +57,6 @@ Overall, this project provides a practical understanding of CI/CD pipelines and 
 This project successfully demonstrates the implementation of a CI/CD pipeline using modern tools. It showcases how automation simplifies deployment processes and enhances development productivity.
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2026-04-14 215941" src="https://github.com/user-attachments/assets/d7a22ef2-774e-448a-8deb-eb3f4e6c3591" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-14 215721" src="https://github.com/user-attachments/assets/f1de11e0-440e-491e-861e-3b5b90ccb40d" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-14 215117" src="https://github.com/user-attachments/assets/3d48292a-818f-4d30-83aa-5bf6bf42c289" />
