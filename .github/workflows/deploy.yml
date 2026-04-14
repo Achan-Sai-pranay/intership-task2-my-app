@@ -1,0 +1,23 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Install Dependencies
+        run: echo "No dependencies needed"
+
+      - name: Build Step
+        run: echo "Build successful"
+
+      - name: Deploy Step
+        run: echo "Deploying application..."
