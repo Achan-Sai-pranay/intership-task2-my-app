@@ -1,10 +1,15 @@
 # CI-CD-PIPELINE-PROJECT
 
 **COMPANY:** CODTECH IT SOLUTIONS
+
 **NAME:** *Achan Sai Pranay*
+
 **INTERN ID:** *CTIS6878*
+
 **DOMAIN:** DevOps
+
 **DURATION:** 4 WEEKS
+
 **MENTOR:** *NEELA SANTOSH*
 
 ---
